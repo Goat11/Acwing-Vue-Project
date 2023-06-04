@@ -1,24 +1,4 @@
-# acwinglearn
+# Acwing-Vue-Project
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Acwing Web应用课的vue项目实现
+- 一个类博客网站的vue教学项目，后端API由y总提供
